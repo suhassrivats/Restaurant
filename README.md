@@ -30,7 +30,7 @@ Launch the Vagrant VM from inside the vagrant folder with:
 
 Then move inside the catalog folder:
 
-`cd /vagrant/catalog`
+`cd /vagrant/restaurant`
 
 Then lift the application:
 
