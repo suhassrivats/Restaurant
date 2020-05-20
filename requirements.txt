@@ -21,7 +21,7 @@ cloud-init==0.7.5
 colorama==0.2.5
 configobj==4.7.2
 html5lib==1.0b10
-httplib2==0.10.3
+httplib2==0.18.0
 itsdangerous==0.22
 jsonpatch==1.3
 jsonpointer==1.0
